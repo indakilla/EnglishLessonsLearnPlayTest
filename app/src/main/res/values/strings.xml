@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Уроки английского + тесты!</string>
+
+    <string name="Top_menu_text">Выбери номер урока:</string>
+
+    <string name="header">Пройди весь процесс обучения</string>
+    <string name="header_icon1">1</string>
+    <string name="header_icon2">1</string>
+    <string name="header_icon3">1</string>
+    <string name="header_icon4">1</string>
+    <string name="header_icon5">1</string>
+    <string name="header_icon6">1</string>
+
+    <string name="level1">1</string>
+    <string name="level2">2</string>
+    <string name="level3">3</string>
+    <string name="level4">4</string>
+    <string name="level5">5</string>
+    <string name="level6">6</string>
+    <string name="level7">7</string>
+    <string name="level8">8</string>
+    <string name="level9">9</string>
+    <string name="level10">10</string>
+    <string name="level11">11</string>
+    <string name="level12">12</string>
+</resources>
